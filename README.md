@@ -45,7 +45,7 @@ This project is a web-based notification and dashboard application built using R
 
 1. Clone the repository:
    ```
-https://github.com/KattamuriSaiMadhumitha/Calendar-Application-for-Communication-Tracking-ENTNT
+   https://github.com/KattamuriSaiMadhumitha/Calendar-Application-for-Communication-Tracking-ENTNT
    ```
 2. Navigate to the project directory:
    ```
